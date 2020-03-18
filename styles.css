@@ -1,0 +1,114 @@
+body{
+	font-family: verdana;
+}
+.G{
+	color: #4385F4;
+}
+.OO{
+	color: #EA4435;
+}
+.O{
+	color: #FBBC04;
+}
+.g{
+	color: #4385F4;
+}
+.L{
+	color: #32A953;
+}
+.E{
+	color: #EA4435;
+}
+header{
+	text-align: right;
+	width: 100%;
+}
+header a, footer a{
+	text-decoration: none;
+	display: inline-block;
+	margin: 3px;
+	font-size: 12px;
+	color: black;
+}
+input{
+	height: 35px;
+	width: 45em;
+	border-radius: 40px;
+	border: 1px solid rgba(0,0,0,0.3);
+	box-shadow: 1px 1px 1px;
+}
+.google1{
+	background-color: #F1F1F1;
+	width: 130px;
+	display: inline-block;
+	font-size: 14px;
+	padding: 10px;
+	border-radius: 5px;
+	margin-left: 5px;
+}
+footer{
+	background-color: #F2F2F2;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+
+}
+.francais{
+	color: #3930B7;
+	font-size: 12px;
+}
+.box{
+	font-size: 4em;
+}
+.text{
+	font-weight: bold;
+	font-size: 12px;
+}
+header img{
+	position: relative;
+	top: 5px;
+}
+button{
+	background-color: #4485F5;
+	color: #FFFFFF;
+	padding: 6px 10px;
+	font-weight: bold;
+	border-radius: 4px;
+}
+.boxe{
+	margin: auto;
+}
+.under{
+	margin: auto;
+	border: 1px solid blue;
+}
+.display{
+	display: flex;
+}
+.f-b-right{
+	text-align: right;
+}
+.like{
+	margin: auto;
+	width: 500px;
+}
+footer a{
+	display: inline-block;
+
+}
+.element1{
+	text-align: center;
+	margin-top: 200px;
+}
+a{
+	text-decoration: none;
+	color: #898b8e;
+}
+.f-bottom{
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 5px;
+}
+.f-top{
+		padding-top: 10px;
+}
